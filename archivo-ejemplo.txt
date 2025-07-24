@@ -1,1 +1,3 @@
+Este es un conflicto a proposito
+
 test conflicto
